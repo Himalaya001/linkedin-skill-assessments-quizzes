@@ -1,4 +1,5 @@
 ## Linkedin Quiz Answers, Skill Assessments Test
+Marking for quick revision 
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 
